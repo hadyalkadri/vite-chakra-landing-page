@@ -1,0 +1,53 @@
+.footer{
+    background-color: #035392;
+    width: 98.7vw;
+    height: 16rem;
+    border-radius: 10px 10px 0 0;
+    margin-top: 1650px;
+    /* 1650 is the number */
+}
+
+
+.footerInnerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+.footerColOne{
+    padding-top: 52px;
+    margin-right: 18rem;
+}
+
+.footerColTwo{
+    color: white;
+    padding-top: 33px;
+    margin-right: 100px;
+}
+
+.colTwoText{
+    
+}
+
+.footerColThree{
+    color: white;
+    padding-top: 33px;
+    margin-right: 100px;
+}
+
+.footerColFour{
+    color: white;
+    padding-top: 38px;
+}
+
+.footerIcons{
+    color: white;
+    margin-left: 10px;
+}
+
+.footerIcons > span{
+    margin-right: 30px;
+}
